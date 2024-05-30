@@ -1,0 +1,20 @@
+{
+    "name": "intan/labhello",
+    "description": "pembuatan library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Intan Zuriati",
+            "email": "zuriatiintan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "intan\\labhello\\": "src/"
+        }
+    },
+    "require": {
+    }
+}
